@@ -1,4 +1,4 @@
-## Welcome to the GunFrame GitHub Pages
+## Welcome to the GunFrame Project
 
 You can use the [editor on GitHub](https://github.com/anbiapps/gunframe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
